@@ -1,0 +1,74 @@
+[
+    {
+        "src": "https://img.flawlessfiles.com/_r/300x400/100/54/90/5490cb32786d4f7fef0f40d7266df532/5490cb32786d4f7fef0f40d7266df532.jpg",
+        "name": "One Piece",
+        "duration": 24,
+        "lang": {
+            "dub": 1078,
+            "sub": 1030
+        }
+    },
+    {
+        "src": "https://img.flawlessfiles.com/_r/300x400/100/9c/bc/9cbcf87f54194742e7686119089478f8/9cbcf87f54194742e7686119089478f8.jpg",
+        "name": "Naruto: Shippuden",
+        "duration": 23,
+        "lang": {
+            "dub": 500,
+            "sub": 500
+        }
+    },
+    {
+        "src": "https://img.flawlessfiles.com/_r/300x400/100/db/2f/db2f3ce7b9cab7fdc160b005bffb899a/db2f3ce7b9cab7fdc160b005bffb899a.png",
+        "name": "Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc",
+        "duration": 24,
+        "lang": {
+            "dub": 11,
+            "sub": 11
+        }
+    },
+    {
+        "src": "https://img.flawlessfiles.com/_r/300x400/100/f5/8b/f58b0204c20ae3310f65ae7b8cb9987e/f58b0204c20ae3310f65ae7b8cb9987e.jpg",
+        "name": "Black Clover",
+        "duration": 23,
+        "lang": {
+            "dub": 170,
+            "sub": 170
+        }
+    },
+    {
+        "src": "https://img.flawlessfiles.com/_r/300x400/100/bd/5a/bd5ae1d387a59c5abcf5e1a6a616728c/bd5ae1d387a59c5abcf5e1a6a616728c.jpg",
+        "name": "Bleach",
+        "duration": 24,
+        "lang": {
+            "dub": 366,
+            "sub": 366
+        }
+    },
+    {
+        "src": "https://img.flawlessfiles.com/_r/300x400/100/32/c8/32c83e2ad4a43229996356840db3982c/32c83e2ad4a43229996356840db3982c.jpg",
+        "name": "Boruto: Naruto Next Generations",
+        "duration": 23,
+        "lang": {
+            "dub": 293,
+            "sub": 231
+        }
+    },
+    {
+        "src": "https://img.flawlessfiles.com/_r/300x400/100/5d/b4/5db400c33f7494bc8ae96f9e634958d0/5db400c33f7494bc8ae96f9e634958d0.jpg",
+        "name": "Naruto",
+        "duration": 23,
+        "lang": {
+            "dub": 220,
+            "sub": 220
+        }
+    },
+    {
+        "src": "https://img.flawlessfiles.com/_r/300x400/100/88/bd/88bd17534dc4884f23027035d23d74e5/88bd17534dc4884f23027035d23d74e5.jpg",
+        "name": "Spy x Family",
+        "duration": 24,
+        "lang": {
+            "dub": 12,
+            "sub": 12
+        }
+    }
+]

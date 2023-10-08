@@ -1,0 +1,82 @@
+[
+    {
+        "src": "https://img.flawlessfiles.com/_r/300x400/100/54/90/5490cb32786d4f7fef0f40d7266df532/5490cb32786d4f7fef0f40d7266df532.jpg",
+        "name": "One Piece",
+        "lang": {
+            "sub": 1078,
+            "dub": 1030
+        }
+    },
+    {
+        "src": "https://img.flawlessfiles.com/_r/300x400/100/b5/1f/b51f863b05f30576cf9d85fa9b911bb5/b51f863b05f30576cf9d85fa9b911bb5.png",
+        "name": "Jujutsu Kaisen 2nd Season",
+        "lang": {
+            "sub": 11,
+            "dub": 9
+        }
+    },
+    {
+        "src": "https://img.flawlessfiles.com/_r/300x400/100/da/1c/da1cf05bd53f2ba693a62fc4b08f1e80/da1cf05bd53f2ba693a62fc4b08f1e80.jpg",
+        "name": "The Eminence in Shadow Season 2",
+        "lang": {
+            "sub": 1,
+            "dub": 1
+        }
+    },
+    {
+        "src": "https://img.flawlessfiles.com/_r/300x400/100/9c/bc/9cbcf87f54194742e7686119089478f8/9cbcf87f54194742e7686119089478f8.jpg",
+        "name": "Naruto: Shippuden",
+        "lang": {
+            "sub": 500,
+            "dub": 500
+        }
+    },
+    {
+        "src": "https://img.flawlessfiles.com/_r/300x400/100/bd/5a/bd5ae1d387a59c5abcf5e1a6a616728c/bd5ae1d387a59c5abcf5e1a6a616728c.jpg",
+        "name": "Bleach",
+        "lang": {
+            "sub": 366,
+            "dub": 366
+        }
+    },
+    {
+        "src": "https://img.flawlessfiles.com/_r/300x400/100/82/40/82402f796b7d84d7071ab1e03ff7747a/82402f796b7d84d7071ab1e03ff7747a.jpg",
+        "name": "Jujutsu Kaisen (TV)",
+        "lang": {
+            "sub": 24,
+            "dub": 24
+        }
+    },
+    {
+        "src": "https://img.flawlessfiles.com/_r/300x400/100/89/64/896483d9436d29a61443d35bdd00acff/896483d9436d29a61443d35bdd00acff.jpg",
+        "name": "Tokyo Revengers: Tenjiku-hen [Uncensored]",
+        "lang": {
+            "sub": 1,
+            "dub": null
+        }
+    },
+    {
+        "src": "https://img.flawlessfiles.com/_r/300x400/100/0f/47/0f474e6ea130efd9372f913356037955/0f474e6ea130efd9372f913356037955.jpg",
+        "name": "Bleach: Thousand-Year Blood War - The Separation",
+        "lang": {
+            "sub": 13,
+            "dub": 8
+        }
+    },
+    {
+        "src": "https://img.flawlessfiles.com/_r/300x400/100/02/1c/021ca452bd8b38c15f2e3c60e4a8c2ca/021ca452bd8b38c15f2e3c60e4a8c2ca.jpg",
+        "name": "Tokyo Revengers: Tenjiku-hen",
+        "lang": {
+            "sub": 1,
+            "dub": null
+        }
+    },
+    {
+        "src": "https://img.flawlessfiles.com/_r/300x400/100/cb/b2/cbb2c211b230fb106f65d302929a899f/cbb2c211b230fb106f65d302929a899f.jpg",
+        "name": "Ragna Crimson",
+        "lang": {
+            "sub": 1,
+            "dub": 0
+        }
+    }
+]
