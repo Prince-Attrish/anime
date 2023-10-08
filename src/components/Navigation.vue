@@ -1,6 +1,7 @@
 <script setup>
 import { ref } from 'vue'
 import { RouterLink } from 'vue-router';
+import Logo from '../assets/img/logo.png'
 
 let openMenu = ref(false)
 
@@ -13,47 +14,43 @@ function closeMenu () {
 
 const links = [
     {
-        to: '/',
+        to: '/anime/',
         name: 'Home'
     },
     {
-        to: '/most-popular',
+        to: '/anime/most-popular',
         name: 'Popular'
     },
     {
-        to: '/movies',
+        to: '/anime/movies',
         name: 'Movies'
     },
     {
-        to: '/subbed',
+        to: '/anime/subbed',
         name: 'Subbed Anime'
     },
     {
-        to: '/dubbed',
+        to: '/anime/dubbed',
         name: 'Dubbed Anime'
     },
     {
-        to: '/tv-series',
+        to: '/anime/tv-series',
         name: 'TV Series'
     },
     {
-        to: '/ova',
+        to: '/anime/ova',
         name: 'OVAs'
     },
     {
-        to: '/ona',
+        to: '/anime/ona',
         name: 'ONAs'
     },
     {
-        to: '/specials',
+        to: '/anime/specials',
         name: 'Specials'
     },
     {
-        to: '/events',
-        name: 'Events'
-    },
-    {
-        to: '/404',
+        to: '/anime/events',
         name: 'Events'
     },
 ]
@@ -68,7 +65,7 @@ const links = [
           <i class="bi bi-list"></i>
         </span>
 
-        <img class="h-9 w-auto" src="../assets/img/logo.png" alt="" />
+        <img class="h-9 w-auto" :src="Logo" alt="LOGO" />
       </div>
       <div class="flex gap-5">
         <form>
@@ -80,7 +77,7 @@ const links = [
       </div>
     </nav>
 
-    <aside :class="openMenu ? 'left-0' : '-left-full'" class="fixed top-0 w-full z-50 transition-all duration-150">
+    <aside :class="openMenu ? 'left-0' : 'left-[-100%]'" class="fixed top-0 w-full z-50 transition-all duration-75 ease-in">
         <div @click="closeMenu" class="bg-black/10 backdrop-filter backdrop-blur-lg w-full h-screen">
             <div class="hasCustomScrollbar py-6 bg-zinc-600/50 backdrop-filter backdrop-blur-[200px] w-48 md:w-64 h-full overflow-y-scroll">
                 <div class="px-3">

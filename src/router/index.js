@@ -5,22 +5,22 @@ import Popular from '../views/popular.vue'
 import NotFoundPage from '../views/NotFoundPage.vue'
 
 const router = createRouter({
-    history: createWebHistory(import.meta.env.BASE_URL),
+    history: createWebHistory(),
     routes: [
         {
-            path: "/",
+            path: "/anime/",
             component: HomeView
         },
         {
-            path: "/movies",
+            path: "/anime/movies",
             component: Movies
         },
         {
-            path: "/most-popular",
+            path: "/anime/most-popular",
             component: Popular
         },
         {
-            path: "/:notFound",
+            path: "/anime/:notFound",
             component: NotFoundPage
         },
     ]

@@ -15,7 +15,7 @@
                     loading="lazy"
                     />
                 <div
-                    class="hidden group-hover:block duration-150 ease-linear hover:backdrop-brightness-75 hover:backdrop-blur-md h-full w-full absolute top-0 left-0">
+                    class="hidden md:group-hover:block duration-150 ease-linear hover:backdrop-brightness-75 hover:backdrop-blur-md h-full w-full absolute top-0 left-0">
                     <span class="h-full w-full flex justify-center items-center text-white">
                         <i class="bi bi-play-fill text-5xl"></i>
                     </span>
